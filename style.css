@@ -8,3 +8,10 @@
   height: 80vh;
   width: 50%;
  }
+ .container h1{
+  background-color: #fff;
+ }
+ .content{
+  display: flex;
+  gap: 10px;
+ }
