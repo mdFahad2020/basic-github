@@ -1,0 +1,9 @@
+When sharing your code with others, there are often files or parts of your project, you do not want to share.
+
+Examples
+
+    log files
+    temporary files
+    hidden files
+    personal files
+    etc.
